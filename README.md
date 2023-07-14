@@ -1,6 +1,6 @@
 # SmartMesthod Task-1 Robotic arm
 
-we set up ros on virual machine and using Ubuntu 18.04 
+we set up ros on virtual machine and using Ubuntu 18.04 
 
 ![image](https://github.com/suliman016/SmartMesthod-Task-1-Robotic-arm/assets/139249285/f7f5af37-1304-4aaa-8bce-d759aa41e721)
 
